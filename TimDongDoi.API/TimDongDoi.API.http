@@ -1,0 +1,6 @@
+@TimDongDoi.API_HostAddress = http://localhost:5024
+
+GET {{TimDongDoi.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
