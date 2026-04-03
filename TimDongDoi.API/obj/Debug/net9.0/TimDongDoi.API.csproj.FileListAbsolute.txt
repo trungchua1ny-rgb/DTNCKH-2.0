@@ -354,10 +354,10 @@ D:\DTNCKH\ChunShynsNewDB2.0\ChunShyns\ChunShyns\TimDongDoi.API\obj\Debug\net9.0\
 D:\DTNCKH\ChunShynsNewDB2.0\ChunShyns\ChunShyns\TimDongDoi.API\obj\Debug\net9.0\TimDongDoi.API.genruntimeconfig.cache
 D:\DTNCKH\ChunShynsNewDB2.0\ChunShyns\ChunShyns\TimDongDoi.API\obj\Debug\net9.0\ref\TimDongDoi.API.dll
 D:\DTNCKH\ChunShynsNewDB2.0\ChunShyns\Hosting\ChunShyns\TimDongDoi.API\bin\Debug\net9.0\appsettings.Development.json
-D:\DTNCKH\ChunShynsNewDB2.0\ChunShyns\Hosting\ChunShyns\TimDongDoi.API\bin\Debug\net9.0\package-lock.json
-D:\DTNCKH\ChunShynsNewDB2.0\ChunShyns\Hosting\ChunShyns\TimDongDoi.API\bin\Debug\net9.0\TimDongDoi.API.staticwebassets.endpoints.json
 D:\DTNCKH\ChunShynsNewDB2.0\ChunShyns\Hosting\ChunShyns\TimDongDoi.API\bin\Debug\net9.0\appsettings.json
+D:\DTNCKH\ChunShynsNewDB2.0\ChunShyns\Hosting\ChunShyns\TimDongDoi.API\bin\Debug\net9.0\package-lock.json
 D:\DTNCKH\ChunShynsNewDB2.0\ChunShyns\Hosting\ChunShyns\TimDongDoi.API\bin\Debug\net9.0\TimDongDoi.API.staticwebassets.runtime.json
+D:\DTNCKH\ChunShynsNewDB2.0\ChunShyns\Hosting\ChunShyns\TimDongDoi.API\bin\Debug\net9.0\TimDongDoi.API.staticwebassets.endpoints.json
 D:\DTNCKH\ChunShynsNewDB2.0\ChunShyns\Hosting\ChunShyns\TimDongDoi.API\bin\Debug\net9.0\TimDongDoi.API.exe
 D:\DTNCKH\ChunShynsNewDB2.0\ChunShyns\Hosting\ChunShyns\TimDongDoi.API\bin\Debug\net9.0\TimDongDoi.API.deps.json
 D:\DTNCKH\ChunShynsNewDB2.0\ChunShyns\Hosting\ChunShyns\TimDongDoi.API\bin\Debug\net9.0\TimDongDoi.API.runtimeconfig.json

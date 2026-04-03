@@ -12,7 +12,10 @@ using Microsoft.OpenApi.Models;
 // using Npgsql; 
 
 var builder = WebApplication.CreateBuilder(args);
-
+var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
+Console.WriteLine("\n=======================================================");
+Console.WriteLine($"THẰNG CODE ĐANG XÀI CHUỖI NÀY: {connectionString}");
+Console.WriteLine("=======================================================\n");
 // ============================================
 // CẤU HÌNH POSTGRESQL (FIX CHO DATE TIME)
 // ============================================
