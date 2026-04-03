@@ -4,6 +4,8 @@ import { ReactQueryDevtools } from "@tanstack/react-query-devtools";
 import { AuthProvider } from "./contexts/AuthContext";
 import { ProtectedRoute, RoleRoute } from "./components/layout/ProtectedRoute";
 import { Toaster } from "react-hot-toast";
+//namefilefix1
+
 
 // Pages - Auth
 import LoginPage from "./pages/auth/LoginPage";
