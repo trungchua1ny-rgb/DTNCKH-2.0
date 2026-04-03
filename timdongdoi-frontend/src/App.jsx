@@ -6,7 +6,6 @@ import { ProtectedRoute, RoleRoute } from "./components/layout/ProtectedRoute";
 import { Toaster } from "react-hot-toast";
 //namefilefix1
 
-
 // Pages - Auth
 import LoginPage from "./pages/auth/LoginPage";
 import RegisterPage from "./pages/auth/RegisterPage";
@@ -61,7 +60,6 @@ import AdminReportsPage from "./pages/admin/AdminReportsPage";
 import AdminReviewsPage from "./pages/admin/AdminReviewsPage"; // ← thêm
 import AdminLogsPage from "./pages/admin/AdminlogsPage";
 import AdminSkillsPage from "./pages/admin/AdminSkillsPage";
-
 
 const queryClient = new QueryClient({
   defaultOptions: {
